@@ -1,0 +1,29 @@
+{
+    "workbench.activityBar.visible": true,
+    "workbench.colorTheme": "Sapphire",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.defaultColorDecorators": true,
+    "editor.semanticTokenColorCustomizations": {
+        "enabled": true
+    },
+    "terminal.integrated.copyOnSelection": true,
+    "terminal.integrated.enableBell": true,
+    "terminal.integrated.gpuAcceleration": "auto",
+    "terminal.integrated.shellIntegration.suggestEnabled": true,
+    "remote.WSL.useShellEnvironment": true,
+    "terminal.integrated.shellIntegration.enabled": true,
+    "terminal.integrated.smoothScrolling": true,
+    "terminal.integrated.cursorBlinking": true,
+    "terminal.integrated.enablePersistentSessions": true,
+    "terminal.integrated.sendKeybindingsToShell": true,
+    "workbench.colorCustomizations": {
+
+    },
+    "workbench.preferredDarkColorTheme": "Sapphire",
+    "workbench.preferredHighContrastColorTheme": "Sapphire",
+    "workbench.preferredHighContrastLightColorTheme": "Sapphire",
+    "workbench.preferredLightColorTheme": "Sapphire",
+    "window.autoDetectColorScheme": true,
+    
+
+}
